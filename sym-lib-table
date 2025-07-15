@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SW-TH_2MS1T2B2VS2QES")(type "KiCad")(uri "${KIPRJMOD}/parts/SW-TH_2MS1T2B2VS2QES.kicad_sym")(options "")(descr ""))
+)
